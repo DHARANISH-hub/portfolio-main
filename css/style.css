@@ -545,16 +545,16 @@ body.light hr.separator {
 }
 
 .home .bg {
-  background-image: url(../img/2.jpg);
+  background-image: url(../img/o.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: bottom;
   height: calc(100vh - 80px);
   z-index: 111;
   border-radius: 30px;
   left: 40px;
   top: 40px;
-  box-shadow: 0 0 7px rgba(0,0,0,.9);
+  box-shadow: 0 0 7px rgba(6, 161, 148, 0.9);
 }
 
 .home .container-home {
@@ -570,7 +570,7 @@ body.light hr.separator {
 
 .home .home-details h1 {
   font-size: 51px;
-  color: #28a745;
+  color: #0011ff;
   line-height: 62px;
   font-weight: 700;
   margin: 18px 0 10px;
@@ -581,7 +581,7 @@ body.light hr.separator {
   border: 1px solid #28a745;
 }
 .home .home-details h1:before, .about .resume-box .icon, .contact ul.social li a:hover, body.light.contact ul.social li a:hover, .preloader .loader, .blog .page-link:hover, .blog .page-item.active .page-link, body.light.blog .page-link:hover, body.light.blog .page-item.active .page-link, .portfolio .grid li figure div, .header ul.icon-menu li.icon-box.active, .header ul.icon-menu li.icon-box:hover, body.light .header ul.icon-menu li.icon-box.active, body.light .header ul.icon-menu li.icon-box:hover, .btn, .header .icon-box h2, .home .color-block, .title-section hr, .portfolio .slideshow .carousel-indicators li.active, .button:before, .button-icon {
-  background-color: #28a745;
+  background-color: #e402f8;
 }
 .home h1, .about .box-stats h3, .title-section h1 span, #menu li.active a, body.light #menu li.active a, .blog .post-container:hover .post-content .entry-header h3 a, .blog .post-content .entry-header h3 a:hover, .contact .custom-span-contact i, .portfolio .slideshow figcaption h3, .portfolio .slideshow a, .portfolio .grid figure:hover figcaption, .blog-post .meta i {
   color: #28a745;
@@ -590,7 +590,7 @@ body.light hr.separator {
   border: 0.08em solid #28a745;
 }
 .home .home-details h1:before, .about .resume-box .icon, .contact ul.social li a:hover, body.light.contact ul.social li a:hover, .preloader .loader, .blog .page-link:hover, .blog .page-item.active .page-link, body.light.blog .page-link:hover, body.light.blog .page-item.active .page-link, .portfolio .grid li figure div, .header ul.icon-menu li.icon-box.active, .header ul.icon-menu li.icon-box:hover, body.light .header ul.icon-menu li.icon-box.active, body.light .header ul.icon-menu li.icon-box:hover, .btn, .header .icon-box h2, .home .color-block, .title-section hr, .portfolio .slideshow .carousel-indicators li.active, .button:before, .button-icon {
-  background-color: #28a745 !important;
+  background-color: #0112fa !important;
 }
 .home .home-details h1:before {
   content: '';
